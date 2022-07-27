@@ -33,4 +33,14 @@ To be able to update YouTube Vanced version, you will need to:
    
  * Reboot again
 
+## Social Link
+
+ - [Telegram](https://t.me/Arafatulislamanto)  
+
+ - [Telegram](https://t.me/android_repo) Channel
+
+ - [Facebook](https://www.facebook.com/Arfatulislamantor)
+ 
+ - [Instagram](https://instagram.com/Arafatulislamantor)  
 ```console
+by Arafat
