@@ -25,6 +25,12 @@ Before installing module, create empty file with filename as "ytdark" or "Ytdark
 The modules support Magisk update which means you will receive updates from your Magisk app, downloading from github releases and reflashing is not necessary.  
 To be able to update YouTube Vanced version, you will need to:
 
- * Update the module and reboot again
+ * Disable the Vanced Module
+
+ * Reboot
+
+ * Update YouTube Vanced
+   
+ * Reboot again
 
 ```console
