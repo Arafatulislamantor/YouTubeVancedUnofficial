@@ -38,4 +38,4 @@ To be able to update YouTube Vanced version, you will need to:
 ## Social Links
 [![Facebook](https://img.shields.io/badge/Follow-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/Arfatulislamantor)
 [![Instagram](https://img.shields.io/badge/Follow-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamanto)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-Informational.svg?logo=twitter)](https://www.twitter.com/CryptoArafat)  
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-blue.svg?logo=twitter)](https://www.twitter.com/CryptoArafat) [![Telegram](https://img.shields.io/badge/-Telegram-blue.svg?logo=telegram)](https://t.me/Arafatulislamantor)
