@@ -33,7 +33,9 @@ To be able to update YouTube Vanced version, you will need to:
  * Reboot Again
 
 ## Support
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
+[![Channel](https://img.shields.io/badge/Subscribe-Telegram-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial)
 
 ## Social Links
-[![Facebook](https://img.shields.io/badge/Follow%20-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/Arfatulislamantor) 
+[![Facebook](https://img.shields.io/badge/Follow-Facebook-blue.svg?logo=facebook)](https://www.facebook.com/Arfatulislamantor)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-red.svg?logo=instagram)](https://www.instagram.com/Arafatulislamanto)
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-Informational.svg?logo=twitter)](https://www.twitter.com/CryptoArafat)  
