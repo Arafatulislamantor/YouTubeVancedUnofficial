@@ -1,4 +1,6 @@
 ## YouTube Vanced
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/AndroidRepoOfficial) [![Download](https://img.shields.io/github/v/release/Arafatulislamantor/youtube-vanced-magisk-module?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/releases/latest) ![Total](https://shields.io/github/downloads/Arafatulislamantor/youtube-vanced-magisk-module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)
+
 ![](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/blob/c863dc579c2fc7193f65e0ddfa918bcc5e9775d7/Youtube-Vanced.jpg)
 ## Unofficial Magisk Modules  
 This repo includes a simple script that downloads all the latest version of necessary prebuilt Vanced YouTube applies the patches and creates magisk modules.
@@ -27,23 +29,3 @@ The modules support Magisk update which means you will receive updates from your
 To be able to update YouTube Vanced version, you will need to:
 
  * Disable the Vanced Module
-
- * Reboot
-
- * Update YouTube Vanced
-   
- * Reboot again
-
-## Support
-[Telegram](https://t.me/AndroidRepoOfficial) Channel
-
-
-## Links
- - [Telegram](https://t.me/Arafatulislamantor)  
-
- - [Facebook](https://www.facebook.com/Arfatulislamantor)
- 
- - [Instagram](https://instagram.com/Arafatulislamantor) 
- 
-```console
-by AɾɑƒɑԵմɭ íՏɭɑʍ(AղԵɷɾ)
