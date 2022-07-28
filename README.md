@@ -1,5 +1,6 @@
-# YouTube Vanced Magisk Module Unofficial
-
+## YouTube Vanced
+![](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/blob/c863dc579c2fc7193f65e0ddfa918bcc5e9775d7/Youtube-Vanced.jpg)
+## Unofficial Magisk Modules  
 This repo includes a simple script that downloads all the latest version of necessary prebuilt Vanced YouTube applies the patches and creates magisk modules.
 
 As most of you are aware that YouTube Vanced has been discontinued. This version is unofficial manager by different developers. It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
@@ -33,11 +34,12 @@ To be able to update YouTube Vanced version, you will need to:
    
  * Reboot again
 
-## Social Link
+## Support
+[Telegram](https://t.me/AndroidRepoOfficial) Channel
 
+
+## Links
  - [Telegram](https://t.me/Arafatulislamantor)  
-
- - [Telegram](https://t.me/android_repo) Channel
 
  - [Facebook](https://www.facebook.com/Arfatulislamantor)
  
