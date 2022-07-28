@@ -1,12 +1,12 @@
 ## YouTube Vanced
-[![Download](https://img.shields.io/github/v/release/Arafatulislamantor/youtube-vanced-magisk-module?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/youtube-vanced-magisk-module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/releases/tag/v17.28.34)
-![](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/blob/c863dc579c2fc7193f65e0ddfa918bcc5e9775d7/Youtube-Vanced.jpg)
+[![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YTVancedMagisk?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YTVancedMagisk/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YTVancedMagisk/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YTVancedMagisk/releases/tag/v17.28.34)
+![](https://github.com/Arafatulislamantor/YTVancedMagisk/blob/c863dc579c2fc7193f65e0ddfa918bcc5e9775d7/Youtube-Vanced.jpg)
 ## Unofficial Magisk Modules  
 This repo includes a simple script that downloads all the latest version of necessary prebuilt Vanced YouTube applies the patches and creates magisk modules.
 
 As most of you are aware that YouTube Vanced has been discontinued. This version is unofficial manager by different developers. It has all the YouTube Vanced cool features like Ads blocking, Sponsor Block, Layout Changes, Return YouTube Dislikes & much more. Also it's base updates regularly.
 
-You can get the [latest vanced release from here](https://github.com/Arafatulislamantor/youtube-vanced-magisk-module/releases).
+You can get the [latest Vanced release from here](https://github.com/Arafatulislamantor/YTVancedMagisk/releases/latest).
 
 ## Instructions
 -Download Youtube Vanced Module
