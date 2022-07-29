@@ -14,6 +14,8 @@
 
 - Added setting to hide 'Emergency Box', 'Info Panel', 'Latest Posts', 'Medical Panel', 'Paid Content', 'Suggestion'
 
+- Added PowerTube Addons  
+
 - Rewritten vanced-integraions
 
 - Update some drawable resources
