@@ -1,4 +1,4 @@
-## YouTube Vanced
+## YouTube ReVanced
 [![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YTVancedMagisk?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YTVancedMagisk/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YTVancedMagisk/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YTVancedMagisk/releases/tag/v17.28.34)
 ![](https://github.com/Arafatulislamantor/YTVancedMagisk/blob/c863dc579c2fc7193f65e0ddfa918bcc5e9775d7/Youtube-Vanced.jpg)
 ## Unofficial Magisk Modules  
