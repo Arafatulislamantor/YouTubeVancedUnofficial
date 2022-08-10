@@ -1,35 +1,25 @@
-2022-07-29
+10-08-2022
 
-## Changelog:
+Changelog:
 
-- Bumped base
+• Bug fixes
 
-- Fix RYD (it now works even without 'Old Layout' setting turned on)
+• Incorrect fingerprint version [skip ci].
 
-- Restore 'old style video quality settings'
+• Rollback to Dependencies annotation.
 
-- Restore all vanced settings that have been deleted
+• Migrate to new patcher api.
 
-- Restore all preset settings
+• Incorrect compatibilty attribute.
 
-- Added setting to hide 'Emergency Box', 'Info Panel', 'Latest Posts', 'Medical Panel', 'Paid Content', 'Suggestion'
+• Spoof X-Android-Cert of Firebase authToken api request.
 
-- Added PowerTube Addons  
+• Logic in VideoAdsPatch.
 
-- Rewritten vanced-integraions
+• Unintentional like button detection.
+  Most probably more bug fixes and optimizations.
 
-- Update some drawable resources
 
-- Russian translation update (thanks to @CaM/7oCe6e, Vladimir for helping with the translation)
+Features:
 
-- (ROOT version) Splash Screen is restored
-
-## Known Issues:
-
-- To create a button at the bottom of the player, you must turn on 'Old Layout'
-
-- To fix RYD, I refer to revanced-integrations, so it has the same problem as ReVanced's RYD
-
-- Ads still appear on some devices
-
-- HDR brightness settings does not work on some devices
+The RYD, SponsorBlock and ReVanced menu's are now properly black themed instead of white.
