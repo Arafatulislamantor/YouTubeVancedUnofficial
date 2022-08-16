@@ -1,5 +1,6 @@
 ## YouTube Vanced
-[![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeVancedUnofficial/releases/tag/v17.28.34)
+[![Download](https://img.shields.io/github/v/release/Arafatulislamantor/YouTubeVancedUnofficial?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/Arafatulislamantor/YouTubeVancedUnofficial/releases/latest) [![Total](https://shields.io/github/downloads/Arafatulislamantor/YouTubeVancedUnofficial/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/Arafatulislamantor/YouTubeVancedUnofficial/releases/latest)
+![Release](https://img.shields.io/github/release-date/Arafatulislamantor/YouTubeVancedUnofficial?color=teal&label=Release%20Date%20%20)
 ![](https://github.com/Arafatulislamantor/YouTubeVancedUnofficial/blob/2c2e3e3badfb24d6fffb6173221c1eef056c09d0/Youtube-Vanced.jpg)
 ## Unofficial Magisk Modules  
 This repo includes a simple script that downloads all the latest version of necessary prebuilt Vanced YouTube applies the patches and creates magisk modules.
